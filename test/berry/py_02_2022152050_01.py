@@ -131,7 +131,8 @@ def draw_현():
     draw_ㅎ()
     draw_ㅕ()
     draw_ㄴ()
-    
+    draw_ㄴ()
+
    
 # 전체 이름 그리기
 def draw_name():
